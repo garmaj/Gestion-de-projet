@@ -1,1 +1,4 @@
-# Gestion-de-projet
+## Contributors:
+- **garmaj**  
+  - 
+  - [GitHub](https://github.com/garmaj)
